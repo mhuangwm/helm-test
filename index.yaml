@@ -3,6 +3,16 @@ entries:
   nginx-chart:
   - apiVersion: v2
     appVersion: 1.27.0
+    created: "2026-01-19T20:42:09.386655281Z"
+    description: A simple Helm chart for deploying nginx
+    digest: 093eeaedbd91c88dffa527462c79cfd22393541ce63672368f59207d0470e527
+    name: nginx-chart
+    type: application
+    urls:
+    - https://github.com/mhuangwm/helm-test/releases/download/nginx-chart-0.1.1/nginx-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.27.0
     created: "2026-01-19T20:35:02.383515673Z"
     description: A simple Helm chart for deploying nginx
     digest: 3ffe2d552540c1ce1b76d663a84a26b7ac51c260d99116ccdb3a79ef67220b1d
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/mhuangwm/helm-test/releases/download/nginx-chart-0.1.0/nginx-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2026-01-19T20:35:02.383534851Z"
+generated: "2026-01-19T20:42:09.386665388Z"
